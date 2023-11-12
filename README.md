@@ -1,51 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-       <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            line-height: 1.6;
-            margin: 30px;
-        }
-
-        h1, h2 {
-            color: #333;
-        }
-
-        p {
-            margin-bottom: 15px;
-        }
-
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 4px;
-            color: #333;
-            font-family: 'Courier New', Courier, monospace;
-        }
-
-        ol {
-            margin-bottom: 15px;
-        }
-
-        ul {
-            list-style-type: square;
-            margin-bottom: 15px;
-        }
-
-        a {
-            color: #007acc;
-            text-decoration: none;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
 <body>
-
 <h1>Haskell Polar Moment of Inertia Calculator</h1>
 
 <p>This Haskell program calculates the polar moment of inertia for a specified region in the xy-plane. It involves a change of coordinates to u = xy, v = y/x and the evaluation of a double integral for the function \(f(x, y) = x^2 + y^2\).</p>
