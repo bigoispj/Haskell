@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Haskell Polar Moment of Inertia Calculator</title>
-    <style>
+       <style>
         body {
             font-family: 'Arial', sans-serif;
             line-height: 1.6;
