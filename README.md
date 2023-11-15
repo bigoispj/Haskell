@@ -33,11 +33,11 @@
 
 <h2>Contributing</h2>
 
-<p>Feel free to contribute to the improvement of this Haskell program. If you encounter any issues or have suggestions, please create an issue or pull request on the <a href="https://github.com/bigoispj/Haskell/resp" target="_blank">GitHub repository</a>.</p>
+<p>Feel free to contribute to the improvement of this Haskell program. If you encounter any issues or have suggestions, please create an issue or pull request on the <a href="https://github.com/bigoispj/Haskell" target="_blank">GitHub repository</a>.</p>
 
 <h2>License</h2>
 
-<p>This project is licensed under the MIT License - see the <a href="LICENSE" target="_blank">LICENSE</a> file for details.</p>
+<p>This project is licensed under the MIT License - see the <a href="https://mit-license.org" target="_blank">LICENSE</a> file for details.</p>
 
 <h2>Acknowledgements</h2>
 
